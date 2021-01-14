@@ -1,2 +1,2 @@
 # kyuuaoi.github.io
-Um blog memorável
+O projeto de um blog memorável
